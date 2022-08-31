@@ -1,1 +1,1 @@
-shell readme
+this is for the current working directory
