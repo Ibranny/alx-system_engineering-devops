@@ -1,1 +1,2 @@
-this is for the current working directory
+My first commit
+
